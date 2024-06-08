@@ -44,3 +44,35 @@
       * 战神
       * 只狼
       * 仁王
+
+## 表格
+
+游戏|排行榜|价格
+---|:---:|---:
+APEX|81|free
+CSGO|10|98
+
+## 代码
+
+```c
+#include <stdio.h>
+int main()
+{
+	printf("test\n");
+	return 0;
+}
+```
+```python
+import os
+print("python test code");
+```
+
+```java
+```
+
+```cpp
+```
+```bash
+	echo "数据回显"
+
+
