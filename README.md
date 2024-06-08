@@ -84,5 +84,5 @@ print("python test code");
 [百度搜索](https://www.baidu.com "点击进入")
 
 ## 图片插入
-[桌面截图](C:\Users\10678\Desktop "def")
+[桌面截图](C://Users//10678//Desktop "def")
 
