@@ -2,6 +2,16 @@
 
 int main()
 {
-	printf("this is a test code.\n");
+
+
+
+
+	printf("code1.\n");
+
+	printf("code1.\n");
+	printf("code1.\n");
+	printf("code1.\n");
+	printf("code1.\n");
+	printf("code1.\n");
 	return 0;
 }
